@@ -1,138 +1,135 @@
-🌐 Cp-Cv.Bisik
+<h1 align="center">🌐 Cp-Cv.Bisik</h1>
 
-Website portfolio pribadi yang dirancang untuk menampilkan profil, layanan, karya, dan informasi kontak secara profesional.
-Dibangun dengan pendekatan sederhana namun terstruktur agar mudah dikembangkan dan dipelajari.
+<p align="center">
+Website Portfolio Pribadi <br>
+Desain Bersih • Struktur Rapi • Mudah Dikembangkan
+</p>
 
-Proyek ini merepresentasikan identitas digital yang bersih, ringan, dan fokus pada pengalaman pengguna.
+<hr>
 
-🚀 Tentang Proyek
+<h2>📖 Tentang Proyek</h2>
 
-Cp-Cv.Bisik adalah website statis multi-halaman yang dibuat untuk:
+<p>
+<strong>Cp-Cv.Bisik</strong> adalah website portfolio multi-halaman yang dibuat untuk
+menampilkan profil, layanan, karya, dan informasi kontak secara profesional.
+</p>
 
-Menampilkan profil dan latar belakang
+<p>
+Proyek ini dibangun menggunakan fundamental web (HTML, CSS, JavaScript)
+tanpa framework agar struktur kode tetap ringan, mudah dipahami, dan
+cocok untuk pengembangan lebih lanjut.
+</p>
 
-Menjelaskan layanan atau keahlian
+<hr>
 
-Menampilkan galeri karya
+<h2>✨ Fitur Utama</h2>
 
-Menyediakan informasi kontak
+<ul>
+  <li>Desain minimalis dan profesional</li>
+  <li>Struktur multi-halaman terpisah</li>
+  <li>Navigasi jelas dan mudah dipahami</li>
+  <li>Struktur folder terorganisir</li>
+  <li>Mudah dikembangkan ke versi dinamis</li>
+</ul>
 
-Struktur kode dibuat rapi dan mudah dipahami, sehingga cocok untuk:
+<hr>
 
-Portfolio pribadi
+<h2>📂 Struktur Halaman</h2>
 
-Landing page sederhana
+<table>
+<tr>
+<th>Halaman</th>
+<th>Fungsi</th>
+</tr>
+<tr>
+<td><strong>Beranda</strong></td>
+<td>Ringkasan dan gambaran utama website</td>
+</tr>
+<tr>
+<td><strong>Tentang</strong></td>
+<td>Profil dan latar belakang</td>
+</tr>
+<tr>
+<td><strong>Layanan</strong></td>
+<td>Keahlian atau jasa yang ditawarkan</td>
+</tr>
+<tr>
+<td><strong>Galeri</strong></td>
+<td>Kumpulan karya atau dokumentasi</td>
+</tr>
+<tr>
+<td><strong>Kontak</strong></td>
+<td>Informasi atau form komunikasi</td>
+</tr>
+</table>
 
-Referensi belajar fundamental web
+<hr>
 
-✨ Fitur Utama
+<h2>🛠️ Teknologi yang Digunakan</h2>
 
-✅ Desain bersih dan minimalis
+<ul>
+  <li><strong>HTML5</strong> — Struktur konten</li>
+  <li><strong>CSS3</strong> — Styling dan layout</li>
+  <li><strong>JavaScript</strong> — Interaksi dasar</li>
+</ul>
 
-✅ Struktur multi-halaman
+<hr>
 
-✅ Navigasi antar halaman yang jelas
+<h2>⚙️ Cara Menjalankan</h2>
 
-✅ Layout responsif (jika sudah responsive)
+<ol>
+  <li>Clone repository ini:</li>
+</ol>
 
-✅ Struktur folder terorganisir
-
-Halaman yang tersedia:
-
-Beranda – Gambaran umum website
-
-Tentang – Informasi profil
-
-Layanan – Penjelasan keahlian atau jasa
-
-Galeri – Kumpulan karya atau dokumentasi
-
-Kontak – Informasi atau form komunikasi
-
-🛠️ Teknologi yang Digunakan
-
-Proyek ini dibangun menggunakan:
-
-HTML5 – Struktur konten
-
-CSS3 – Styling dan layout
-
-JavaScript – Interaksi dasar (jika digunakan)
-
-Tidak menggunakan framework, sehingga sangat cocok untuk memahami dasar pengembangan web.
-
-📁 Struktur Proyek
-Cp-Cv.Bisik/
-│
-├── .github/            # Workflow atau konfigurasi tambahan
-├── assets/             # Gambar dan resource pendukung
-│
-├── index.html          # Halaman utama
-├── about.html          # Halaman tentang
-├── services.html       # Halaman layanan
-├── gallery.html        # Halaman galeri
-├── contact.html        # Halaman kontak
-│
-├── style.css           # File styling utama
-├── script.js           # File JavaScript (jika ada)
-└── README.md
-
-Struktur ini dibuat modular agar mudah dikembangkan ke versi yang lebih kompleks di masa depan.
-
-⚙️ Cara Menjalankan
-
-Clone repository ini:
-
+<pre>
 git clone https://github.com/HamMzki/Cp-Cv.Bisik.git
+</pre>
 
-Masuk ke folder project:
+<ol start="2">
+  <li>Masuk ke folder project:</li>
+</ol>
 
+<pre>
 cd Cp-Cv.Bisik
+</pre>
 
-Buka file index.html di browser.
+<ol start="3">
+  <li>Buka file <strong>index.html</strong> di browser.</li>
+</ol>
 
-Tidak memerlukan server atau konfigurasi tambahan.
+<p>Tidak memerlukan server atau konfigurasi tambahan.</p>
 
-🎯 Tujuan Pengembangan
+<hr>
 
-Website ini dibuat sebagai:
+<h2>🎯 Tujuan Pengembangan</h2>
 
-Latihan fundamental web development
+<p>
+Website ini dibuat sebagai media portfolio dan latihan fundamental web development.
+Struktur proyek memungkinkan pengembangan lebih lanjut ke:
+</p>
 
-Media personal branding
+<ul>
+  <li>Integrasi Backend (PHP / Laravel)</li>
+  <li>Database</li>
+  <li>Framework modern</li>
+  <li>Deployment ke hosting atau GitHub Pages</li>
+</ul>
 
-Pondasi untuk pengembangan ke versi yang lebih dinamis
+<hr>
 
-Ke depannya, proyek ini bisa dikembangkan menjadi:
+<h2>👤 Author</h2>
 
-Versi dengan backend (PHP / Laravel)
+<p>
+<strong>Muhammad Ilham Muzaki</strong><br>
+Mobile Developer (Flutter) & Web Enthusiast
+</p>
 
-Terhubung ke database
+<p>
+Terbuka untuk kolaborasi dan pengembangan proyek digital.
+</p>
 
-Menggunakan framework modern
+<hr>
 
-Ditambahkan sistem CMS
-
-📌 Pengembangan Selanjutnya (Opsional)
-
-Beberapa peningkatan yang bisa ditambahkan:
-
-Dark mode
-
-Animasi interaktif
-
-Form kontak dengan validasi
-
-Integrasi backend
-
-Deployment ke hosting atau GitHub Pages
-
-🤝 Kontribusi
-
-Kontribusi terbuka untuk perbaikan atau pengembangan fitur baru.
-Silakan buat pull request dengan perubahan yang jelas dan terstruktur.
-
-📄 Lisensi
-
-Belum ditentukan.
-Bebas digunakan untuk pembelajaran atau pengembangan pribadi.
+<p align="center">
+© 2026 Cp-Cv.Bisik — All Rights Reserved
+</p>
