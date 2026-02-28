@@ -1,63 +1,138 @@
-Cp-Cv.Bisik
+🌐 Cp-Cv.Bisik
 
-Sebuah website portfolio sederhana yang menampilkan profil, layanan, galeri, dan kontak. Website ini dibuat dengan HTML, CSS, dan JavaScript sebagai proyek untuk menampilkan kehadiran online yang bersih dan profesional.
+Website portfolio pribadi yang dirancang untuk menampilkan profil, layanan, karya, dan informasi kontak secara profesional.
+Dibangun dengan pendekatan sederhana namun terstruktur agar mudah dikembangkan dan dipelajari.
 
-✨ Fitur
+Proyek ini merepresentasikan identitas digital yang bersih, ringan, dan fokus pada pengalaman pengguna.
 
-Website ini mencakup beberapa halaman statis:
+🚀 Tentang Proyek
 
-Beranda (index.html) – Halaman utama dengan ringkasan situs.
+Cp-Cv.Bisik adalah website statis multi-halaman yang dibuat untuk:
 
-Tentang (about.html) – Informasi tentang pemilik atau tujuan situs.
+Menampilkan profil dan latar belakang
 
-Layanan (services.html) – Penjelasan layanan atau keahlian yang ditawarkan.
+Menjelaskan layanan atau keahlian
 
-Galeri (gallery.html) – Kumpulan gambar atau karya.
+Menampilkan galeri karya
 
-Kontak (contact.html) – Form atau informasi kontak untuk dihubungi.
+Menyediakan informasi kontak
 
-Struktur kode bersih dan mudah dibaca, cocok untuk dipelajari atau dikembangkan lebih lanjut.
+Struktur kode dibuat rapi dan mudah dipahami, sehingga cocok untuk:
 
-📁 Struktur Folder
+Portfolio pribadi
+
+Landing page sederhana
+
+Referensi belajar fundamental web
+
+✨ Fitur Utama
+
+✅ Desain bersih dan minimalis
+
+✅ Struktur multi-halaman
+
+✅ Navigasi antar halaman yang jelas
+
+✅ Layout responsif (jika sudah responsive)
+
+✅ Struktur folder terorganisir
+
+Halaman yang tersedia:
+
+Beranda – Gambaran umum website
+
+Tentang – Informasi profil
+
+Layanan – Penjelasan keahlian atau jasa
+
+Galeri – Kumpulan karya atau dokumentasi
+
+Kontak – Informasi atau form komunikasi
+
+🛠️ Teknologi yang Digunakan
+
+Proyek ini dibangun menggunakan:
+
+HTML5 – Struktur konten
+
+CSS3 – Styling dan layout
+
+JavaScript – Interaksi dasar (jika digunakan)
+
+Tidak menggunakan framework, sehingga sangat cocok untuk memahami dasar pengembangan web.
+
+📁 Struktur Proyek
 Cp-Cv.Bisik/
-├─ .github/                # Konfigurasi workflow (opsional)
-├─ assets/                 # Gambar, font, dan resource lain
-├─ index.html
-├─ about.html
-├─ services.html
-├─ gallery.html
-├─ contact.html
-├─ styles.css              # File CSS utama (jika ada)
-├─ script.js               # JavaScript (jika ada)
-└─ README.md
-🛠️ Teknologi
+│
+├── .github/            # Workflow atau konfigurasi tambahan
+├── assets/             # Gambar dan resource pendukung
+│
+├── index.html          # Halaman utama
+├── about.html          # Halaman tentang
+├── services.html       # Halaman layanan
+├── gallery.html        # Halaman galeri
+├── contact.html        # Halaman kontak
+│
+├── style.css           # File styling utama
+├── script.js           # File JavaScript (jika ada)
+└── README.md
 
-Dibangun dengan dasar web sederhana:
+Struktur ini dibuat modular agar mudah dikembangkan ke versi yang lebih kompleks di masa depan.
 
-HTML untuk struktur konten
+⚙️ Cara Menjalankan
 
-CSS untuk gaya visual
+Clone repository ini:
 
-JavaScript untuk interaksi ringan (jika digunakan)
+git clone https://github.com/HamMzki/Cp-Cv.Bisik.git
 
-Bahasa utama yang digunakan: HTML, CSS, dan JavaScript.
+Masuk ke folder project:
 
-💡 Cara Menjalankan
+cd Cp-Cv.Bisik
 
-Clone atau unduh repositori ini.
+Buka file index.html di browser.
 
-Buka file index.html di browser favoritmu.
+Tidak memerlukan server atau konfigurasi tambahan.
 
-Tidak perlu server khusus; cukup buka file secara langsung.
+🎯 Tujuan Pengembangan
 
-📌 Tujuan
+Website ini dibuat sebagai:
 
-Website ini dibuat sebagai portfolio pribadi atau landing page sederhana untuk menampilkan proyek, layanan, atau karya profesional.
+Latihan fundamental web development
 
-📬 Ingin Berkontribusi?
+Media personal branding
 
-Kamu bebas mengembangkan atau menambahkan fitur sesuai kebutuhan. Pull request selalu diterima selama perubahan jelas dan terstruktur.
+Pondasi untuk pengembangan ke versi yang lebih dinamis
 
-📜 Lisensi
+Ke depannya, proyek ini bisa dikembangkan menjadi:
 
-Proyek ini bersifat bebas untuk digunakan dan dimodifikasi. Tidak ada lisensi khusus ditetapkan (kamu bisa tambahkan lisensi jika diperlukan).
+Versi dengan backend (PHP / Laravel)
+
+Terhubung ke database
+
+Menggunakan framework modern
+
+Ditambahkan sistem CMS
+
+📌 Pengembangan Selanjutnya (Opsional)
+
+Beberapa peningkatan yang bisa ditambahkan:
+
+Dark mode
+
+Animasi interaktif
+
+Form kontak dengan validasi
+
+Integrasi backend
+
+Deployment ke hosting atau GitHub Pages
+
+🤝 Kontribusi
+
+Kontribusi terbuka untuk perbaikan atau pengembangan fitur baru.
+Silakan buat pull request dengan perubahan yang jelas dan terstruktur.
+
+📄 Lisensi
+
+Belum ditentukan.
+Bebas digunakan untuk pembelajaran atau pengembangan pribadi.
